@@ -1,4 +1,4 @@
-#! /bin/bash
+#! /bin/bash -x
 
 isPresentFullTime=1
 isPresentPartTime=2
